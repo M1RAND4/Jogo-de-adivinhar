@@ -1,2 +1,2 @@
 # Jogo de adivinhação
- 
+int
